@@ -1,12 +1,19 @@
 # BeeGee
 This is For Practise
+# My Repo for latest projects at INSAIDMy Repo for latest projects at INSAID
 
-- Point 1
-- Point 2
+## Here is the List of All ProjectsHere is the List of All Projects
+- Finance
+- Accounts
+- Banking
+- Energy
 
-```
-Print('hello world')
 
+| Finance Project  |   |
+| :------------: | :------------: |
+|   |  Accounts Project.  |
+| Banking Project |   |
+|   | Energy  |
 ```
 
 
